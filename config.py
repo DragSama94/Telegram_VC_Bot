@@ -20,7 +20,7 @@ if HEROKU:
 if not HEROKU:
     API_ID = 1423797
     API_HASH = "25b825e1ab5ec075d8e07e6e598bd017"
-    ARQ_API_KEY = "Get this from @ARQRobot"
+    ARQ_API_KEY = "ZWWTBV-XHINQS-QWTBAJ-AAZRUG-ARQ"
     CHAT_ID = -1001514303128
     DEFAULT_SERVICE = (
         "youtube"  # Must be one of "youtube"/"deezer"/"saavn"
