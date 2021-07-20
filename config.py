@@ -18,10 +18,10 @@ if HEROKU:
 
 # NOTE Fill this if you are not deploying on heroku.
 if not HEROKU:
-    API_ID = 14371
-    API_HASH = "e46b6c854d2bf58a0"
+    API_ID = 1423797
+    API_HASH = "25b825e1ab5ec075d8e07e6e598bd017"
     ARQ_API_KEY = "Get this from @ARQRobot"
-    CHAT_ID = -100546355432
+    CHAT_ID = -1001514303128
     DEFAULT_SERVICE = (
         "youtube"  # Must be one of "youtube"/"deezer"/"saavn"
     )
